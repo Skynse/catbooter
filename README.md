@@ -5,4 +5,4 @@ How to install
 
 Run .deb file or compile script
 
-![](https://ibb.co/0XckzLB)
+![](/Selection_082.png)
